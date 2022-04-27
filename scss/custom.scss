@@ -13,9 +13,11 @@ $text-dark-blackyish-blue : hsl(219, 29%, 14%);
 
 @media (min-width: 992px){
     .alto-100{
-        height: 100vh;
+        height: 120vh;
     }
 }
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
 .text-gray{
     color: $text-dark-grayish-blue;
     font-family: 'Barlow Semi Condensed', sans-serif;
