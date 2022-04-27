@@ -28,7 +28,7 @@
 }
 
 .fondo-card {
-  background: url("/public/bg-pattern-quotation.svg");
+  background: url("../bg-pattern-quotation.svg");
   background-repeat: no-repeat;
   background-position: 85% top;
 }
