@@ -4,7 +4,7 @@
   "description": "![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)",
   "main": "index.js",
   "scripts": {
-    "build": "purgecss --css public/css/custom.css --content public/index.html -o public/css/reducido.css"
+    "build": "purgecss --css public/css/custom.css --content index.html -o public/css/reducido.css"
   },
   "keywords": [],
   "author": "",
